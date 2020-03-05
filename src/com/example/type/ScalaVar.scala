@@ -1,4 +1,4 @@
-package com.example
+package com.example.`type`
 
 object ScalaVar {
   def main(args: Array[String]): Unit = {
@@ -18,5 +18,3 @@ object ScalaVar {
     var name ="123"
   }
 }
-
-

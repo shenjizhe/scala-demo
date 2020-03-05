@@ -1,4 +1,4 @@
-package com.example
+package com.example.`type`
 
 object PrintString {
   def main(args: Array[String]): Unit = {

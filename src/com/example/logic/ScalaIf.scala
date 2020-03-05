@@ -1,4 +1,4 @@
-package com.example
+package com.example.logic
 
 object ScalaIf {
   def main(args: Array[String]): Unit = {

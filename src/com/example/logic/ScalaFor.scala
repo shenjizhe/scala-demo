@@ -1,4 +1,4 @@
-package com.example
+package com.example.logic
 
 object ScalaFor {
   def main(args: Array[String]): Unit = {
